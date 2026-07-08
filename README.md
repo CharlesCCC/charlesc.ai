@@ -41,7 +41,7 @@ To get started with your own portfolio website:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/namanbarkiya/minimal-next-portfolio.git my-portfolio
+   git clone https://github.com/CharlesCCC/charlesc.ai.git my-portfolio
    cd my-portfolio
    ```
 
@@ -122,7 +122,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 🙏 Acknowledgements
 
 - Design inspired by modern portfolio best practices
-- Built by [Congchen Cai](https://github.com/namanbarkiya)
+- Built by [Congchen(Charles) Cai](https://github.com/congchencai)
 - Icons from [Lucide](https://lucide.dev/)
 
 ## 💻 Deploy on Vercel

@@ -2,10 +2,10 @@ import type { MetadataRoute } from "next";
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: "Congchen Cai | AI/Software Engineer",
-    short_name: "Congchen Cai",
+    name: "Congchen(Charles) Cai | AI/Software Engineer",
+    short_name: "Congchen(Charles) Cai",
     description:
-      "Congchen Cai - AI/Software Engineer working at the intersection of AI, data, and scalable software systems.",
+      "Congchen(Charles) Cai - AI/Software Engineer working at the intersection of AI, data, and scalable software systems.",
     start_url: "/",
     display: "standalone",
     background_color: "#ffffff",

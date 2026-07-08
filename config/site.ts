@@ -1,14 +1,14 @@
 export const siteConfig = {
-  name: "Congchen Cai - AI/Software Engineer",
-  authorName: "Congchen Cai",
-  username: "namanbarkiya",
+  name: "Congchen(Charles) Cai - AI/Software Engineer",
+  authorName: "Congchen(Charles) Cai",
+  username: "congchencai",
   description:
-    "Congchen Cai - AI/Software Engineer working at the intersection of AI, data, and scalable software systems. Explore my projects, experience, and contributions in software development and AI.",
+    "Congchen(Charles) Cai - AI/Software Engineer working at the intersection of AI, data, and scalable software systems. Explore my projects, experience, and contributions in software development and AI.",
   url: "https://nbarkiya.xyz",
   links: {
-    twitter: "https://x.com/namanbarkiya",
-    github: "https://github.com/namanbarkiya",
-    templateRepo: "https://github.com/namanbarkiya/minimal-next-portfolio",
+    twitter: "https://x.com/congchencai",
+    github: "https://github.com/congchencai",
+    templateRepo: "https://github.com/charlesCCC/charlesc.ai",
   },
   ogImage:
     "https://res.cloudinary.com/dvt5vkfwz/image/upload/v1767384721/naman_portfolio_og_image.png",
@@ -17,7 +17,7 @@ export const siteConfig = {
   logoIcon:
     "https://res.cloudinary.com/dbfvcn3f6/image/upload/v1692357294/assets/naman-logo.png",
   keywords: [
-    "Congchen Cai",
+    "Congchen(Charles) Cai",
     "AI/Software Engineer",
     "AI Engineer",
     "Software Engineer",

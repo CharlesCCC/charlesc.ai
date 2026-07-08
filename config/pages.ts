@@ -18,7 +18,7 @@ export const pagesConfig: PagesConfig = {
     description: "Welcome to my portfolio website.",
     metadata: {
       title: "Home",
-      description: "Congchen Cai's portfolio website.",
+      description: "Congchen(Charles) Cai's portfolio website.",
     },
   },
   skills: {
@@ -27,7 +27,7 @@ export const pagesConfig: PagesConfig = {
     metadata: {
       title: "Skills",
       description:
-        "Congchen Cai's key skills that define his professional identity.",
+        "Congchen(Charles) Cai's key skills that define his professional identity.",
     },
   },
   projects: {
@@ -35,7 +35,7 @@ export const pagesConfig: PagesConfig = {
     description: "Showcasing impactful projects and technical achievements.",
     metadata: {
       title: "Projects",
-      description: "Congchen Cai's projects in building web applications.",
+      description: "Congchen(Charles) Cai's projects in building web applications.",
     },
   },
   contact: {
@@ -43,7 +43,7 @@ export const pagesConfig: PagesConfig = {
     description: "Let's connect and explore collaborations.",
     metadata: {
       title: "Contact",
-      description: "Contact Congchen Cai.",
+      description: "Contact Congchen(Charles) Cai.",
     },
   },
   contributions: {
@@ -52,15 +52,15 @@ export const pagesConfig: PagesConfig = {
     metadata: {
       title: "Contributions",
       description:
-        "Congchen Cai's open-source contributions and community involvement.",
+        "Congchen(Charles) Cai's open-source contributions and community involvement.",
     },
   },
   resume: {
     title: "Resume",
-    description: "Congchen Cai's resume.",
+    description: "Congchen(Charles) Cai's resume.",
     metadata: {
       title: "Resume",
-      description: "Congchen Cai's resume.",
+      description: "Congchen(Charles) Cai's resume.",
     },
   },
   blogs: {
@@ -70,7 +70,7 @@ export const pagesConfig: PagesConfig = {
     metadata: {
       title: "Blogs",
       description:
-        "Congchen Cai's blog — thoughts on AI, software engineering, and building in public.",
+        "Congchen(Charles) Cai's blog — thoughts on AI, software engineering, and building in public.",
     },
   },
   experience: {
@@ -79,7 +79,7 @@ export const pagesConfig: PagesConfig = {
     metadata: {
       title: "Experience",
       description:
-        "Congchen Cai's professional journey and experience timeline.",
+        "Congchen(Charles) Cai's professional journey and experience timeline.",
     },
   },
 };
